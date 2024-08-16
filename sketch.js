@@ -3,14 +3,14 @@ function setup() {
   }
   
   function draw() {
-    background("white");
+    background("black");
   }
   function setup() {
     createCanvas(600, 600);
   }
   
   function draw() {
-    background("white");
+    background("black");
       rect(0, 0, 100, 150)
   }
   function setup() {
@@ -18,7 +18,7 @@ function setup() {
   }
   
   function draw() {
-    background("white");
+    background("black");
   
       fill("red")
       rect(0, 0, 100, 150)
@@ -28,7 +28,7 @@ function setup() {
   }
   
   function draw() {
-    background("white");
+    background("black");
   
       stroke("blue")
       fill("red")
@@ -39,7 +39,7 @@ function setup() {
   }
   
   function draw() {
-    background("white");
+    background("black");
   
     stroke("blue")
     fill("red")
@@ -50,7 +50,7 @@ function setup() {
   }
   
   function draw() {
-    background("white");
+    background("black");
   
     stroke("blue")
     fill("red")
@@ -61,7 +61,7 @@ function setup() {
   }
   
   function draw() {
-    background("white");
+    background("black");
   
     stroke("blue")
     fill("red")
@@ -74,7 +74,7 @@ function setup() {
   }
   
   function draw() {
-    background("white");
+    background("black");
   
     stroke("blue")
     fill("red")
@@ -87,7 +87,7 @@ function setup() {
   }
   
   function draw() {
-    background("white");
+    background("black");
   
     stroke("blue")
     fill("red")
@@ -100,12 +100,12 @@ function setup() {
   }
   function setup() {
     createCanvas(600, 600);
-   background("white");
+   background("black");
   
   
   }function setup() {
     createCanvas(600, 600);
-    background("white");
+    background("black");
   }
   
   function draw() {
